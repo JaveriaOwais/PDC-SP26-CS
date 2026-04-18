@@ -21,3 +21,17 @@
 - Event Synchronization
 - Condition Synchronization
 - Queue Synchronization
+
+### Chapter03
+
+**Contents**
+- Multiprocessing using Subclass
+- Multiprocessing with Named vs Default Processes
+- Process Termination in Multiprocessing
+- Process Spawning in Multiprocessing
+- Process Spawning using Namespace in Multiprocessing
+- Process Pool in Multiprocessing
+- Background (Daemon) vs Non-Background Processes
+- Barrier Synchronization in Multiprocessing
+- Communication using Queue in Multiprocessing
+- Communication using Pipe in Multiprocessing
